@@ -1,4 +1,4 @@
-![contribute.design](contribute.design.banner.png)
+![contribute.design](https://imgur.com/cY1zq5K)
 
 <div align="center">
   <h1>contribute.design</h1>
