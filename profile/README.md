@@ -1,4 +1,4 @@
-![contribute.design](./contribute.design.banner.png)
+![contribute.design](contribute.design.banner.png)
 
 <div align="center">
   <h1>contribute.design</h1>
