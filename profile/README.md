@@ -5,11 +5,11 @@
   <br />
   <a href="#">Quickstart</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#">Website</a>
+  <a href="https://contribute.design" target="_blank">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#">Participating projects</a>
+  <a href="https://contribute.design/projects" target="_blank">Participating projects</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#">Best practices & Examples</a>
+  <a href="https://github.com/contribute-design/examples">Best practices & Examples</a>
   <br />
   <hr />
 </div>
