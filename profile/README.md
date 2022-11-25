@@ -18,18 +18,18 @@
 
 We're glad you want to change how Open Source software and Designers collaborate and are thrilled to welcome you on our mission.
 
-## 🌟 contribute.design projects
+## 🎁 contribute.design projects
 
 > Feel free to browse and contribute to our 2 main projects
 
 * [The Monorepo](https://github.com/contribute-design/contribute.design) - the codebase of our Frontend, API and Data Store
 * [Example Design Guidelines](https://github.com/contribute-design/examples) - for Open Source projects
 
-## 🚀 Quick start
+## 🚀 For Open Source projects
 
-### For Open Source projects
+If you're an Open Source project looking for designers – we can help you to get exposure and ultimately designers contributing towards your project.
 
-> If you're an Open Source project looking for designers – we can help you to get exposure and ultimately designers contributing towards your project.
+<details><summary>Get your project ready for design contributions</summary>
 
 1. Add your `.design` folder with some guidelines to your repository. [See examples](https://github.com/contribute-design/examples)
 2. Add a `contribute.design badge` to your README.md
@@ -40,9 +40,19 @@ We're glad you want to change how Open Source software and Designers collaborate
 
 3. Your project will automatically be added [to our database](https://contribute.design/projects) and get exposure to hundreds of talented designers.
 
-### For designers
+</details>
 
-> If you're a designer looking for Open Source projects to contribute to – we can help you get infront of the most exciting projects and impact millions of users.
+## 💅 For designers
+
+If you're a designer looking for Open Source projects to contribute to – we can help you get infront of the most exciting projects and impact millions of users.
+
+<details><summary>Start contributing to Open Source projects</summary>
 
 1. Browse through the projects in our [database](https://contribute.design/projects)
 2. Read through their design guidelines and start contributing!
+
+</details>
+
+## ❤️ Spread the love
+
+Help us spread the word about our initiative. [Tweet](https://twitter.com/contrib_design), talk to designers, open source projects and let's change the way we collaborate for good
